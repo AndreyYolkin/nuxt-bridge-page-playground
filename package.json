@@ -1,0 +1,16 @@
+{
+  "name": "nuxt-starter",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "start": "nuxi preview",
+    "generate": "nuxt generate"
+  },
+  "devDependencies": {
+    "@nuxt/bridge": "npm:@nuxt/bridge-edge@^3.0.0-27928371.c30fa0f",
+    "core-js": "^3.27.2",
+    "nuxt": "^2.16.0"
+  }
+}
